@@ -5,7 +5,7 @@
 Special thanks to codebasics for a great project.
 Source: https://youtu.be/CCNd2fUfFkk
 
-## The repo contains 3 files:
+## The repo contains 3 files
 - Overview PDF: Project overview and my explaination of how I did this project
 - SQL dump file: Use with MySQl workbench to load the data and import it to the local database
 - Tableau workbook: The created dashboard and plot sheets. Data pulled from the local database
