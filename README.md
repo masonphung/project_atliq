@@ -40,6 +40,7 @@ Case source: https://youtu.be/CCNd2fUfFkk
 - `atliq_sql_data_analysis.ipynb`: Data mining with Python and analysis using SQL.
 - `atliq_data_visualization.twb`: Tableau workbook of the dashboard and plot sheets. Data pulled from the local MySQL database.
 - `atliq_dashboard.pbix`: PowerBI dashboard, built with the data pulled from the local MySQL database.
+- `requirements.txt`: Required Python packages for data analysis.
 - `/dump`: SQL dump files, including a dumb used in the project and a backup version.
 - `/img`: Related images about the projects, used in reports and github readme.
 
