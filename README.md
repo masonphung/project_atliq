@@ -29,6 +29,13 @@ Case source: https://youtu.be/CCNd2fUfFkk
 
 ![alt text](img/atliq_dashboard_pbi.png)
 
+## Project processes
+- Step 1: **Database management & Data processing**: Set up local MySQL database and import data by reading `.sql` dumb file.
+- Step 2: **Data cleaning**: Using Python to clean data, then export them back to MySQL database.
+- Step 3: **Exploratory analysis**: Using SQL, with the help of `sqlalchemy` to present the analysis.
+- Step 4: **Data visualization**: Using PowerBI, load the data directly from MySQL database.
+
+
 ## Dashboard features
 *New dashboard in PowerBI from ver 2.0*
 - Interactive dashboard changed based on filters & selection.
