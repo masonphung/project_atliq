@@ -34,6 +34,7 @@ Case source: https://youtu.be/CCNd2fUfFkk
 - Step 2: **Data cleaning**: Using Python to clean data, then export them back to MySQL database.
 - Step 3: **Exploratory analysis**: Using SQL, with the help of `sqlalchemy` to present the analysis.
 - Step 4: **Data visualization**: Using PowerBI, load the data directly from MySQL database.
+- Step 5: **Report**: Present findings, answer case questions & suggestions.
 
 
 ## Dashboard features
