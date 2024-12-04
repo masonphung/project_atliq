@@ -1,7 +1,9 @@
-# AtliQ sales data analysis and dashboard visualization
+# Mini Project: AtliQ sales data analysis and dashboard visualization
 `SQL`, `PowerBI`, `Tableau`, `Python`, `data manipulation`, `data analysis`, `data visualization`
 
 Mason Phung
+
+**Read the pdf report `atliq_report.pdf` for a quick project summary**.
 
 ## A small data analysis project with SQL and PowerBI.
 
@@ -62,10 +64,17 @@ Case source: https://youtu.be/CCNd2fUfFkk
 - Create a local MySQL database and initialize using `mysqlalchemy`.
 - Import dumps into the database using `DBeaver` or `MySQL Benchmark`.
 
-## Latest update: ver 2.0
+## Latest update: Ver 3.0
+- Divide notebook into seperate files for easy interpretation.
+- Add `data_cleaning.py` for quick data cleaning.
+- Update linguist to detect python and sql.
+- Add a SQL script includes some scripts used.
+
+Ver 2.0
 - Upload a jupyter notebook includes SQL queries and Python data manipulation process
 - Create a refined interactive dashboard using Power BI
 
 ## Uploads
-- 2024/08/07: Update ver 2.0
-- 2023/10/18: Update ver 1.0
+- 2024/12: Update ver 3.0
+- 2024/08: Update ver 2.0
+- 2023/10: Update ver 1.0

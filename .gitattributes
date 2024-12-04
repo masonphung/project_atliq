@@ -1,0 +1,6 @@
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
+*.sql text
+
+p1_init_data_cleaning.ipynb linguist-language=python
+p2_data_analysis.ipynb linguist-language=sql
