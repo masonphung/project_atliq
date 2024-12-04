@@ -25,8 +25,9 @@ Data analysis questions:
 - What are the bottlenecks/problems that cause the decline in sales in certain markets?
 - Any suggestions can be made to tackle found issues?
 
-Special thanks to `codebasics` for problem statement and case explanation. Data mining, analysis and visualization by Mason Phung.
-Case source: https://youtu.be/CCNd2fUfFkk
+## Acknowledgement
+- Special thanks to [`codebasics`](https://youtu.be/CCNd2fUfFkk) for problem statement and case explanation. 
+- Data mining, analysis and visualization by Mason Phung.
 
 
 ![alt text](img/atliq_dashboard_pbi.png)
